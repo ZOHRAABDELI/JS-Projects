@@ -11,7 +11,7 @@ const reviews = [
     id: 2,
     name: 'anna johnson',
     job: 'web designer',
-    img: 'Img/person-2.jpeg',
+    img: 'Img/person-2.jpg',
     text: "adipisicing elit. Velit nulla debitis quisquam fugiat nesciunt aspernatur, "
   },
   {
